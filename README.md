@@ -14,6 +14,10 @@ This project implements a **Parking Slot Availability Indicator** using **combin
 
 ---
 
+https://github.com/user-attachments/assets/ccaf6c9b-09a1-41fe-a07e-9299915b9443
+
+
+
 ## 🛠️ Features
 - Real-time slot status (Empty/Occupied)
 - **AnyEmpty** indicator (lights up when at least one slot is free)
